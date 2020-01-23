@@ -5,4 +5,6 @@ class CartsController < ApplicationController
       flash[:warning] = "已清空"
       redirect_to carts_path
     end 
+    
+
 end
