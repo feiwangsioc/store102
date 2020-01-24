@@ -35,6 +35,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'font-awesome-rails'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'letter_opener', group: :development
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
